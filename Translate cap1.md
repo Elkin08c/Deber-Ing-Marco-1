@@ -14,3 +14,4 @@
 - **Mapeo del sitio**
     - Se puede crear un mapa del sitio basado en los enlaces descubiertos
     - Inicialmente se conoce la página de inicio, luego se revelan más URLs.
+  <img src="./primer-deber.png" alt="drawing" width="500"/>
